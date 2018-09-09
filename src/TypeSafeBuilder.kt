@@ -1,4 +1,5 @@
 
+// Example of using a type safe builder in Kotlin to create a DSL (domain specific language)
 fun buildHTMLWithArgs(args: Array<String>) =
         html {
             head {

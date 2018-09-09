@@ -8,7 +8,7 @@ class JavaLecture {
     JavaStudent aStudent = new JavaStudent(1, null, null, null);
 }
 
-
+// Java version of a Kotlin data class. So much code!
 class JavaStudent {
     private final Integer id;
     private final String name;
